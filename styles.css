@@ -1,0 +1,65 @@
+/* reset and common code starts here. */
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    list-style: none;
+    outline: none;
+}
+
+
+div{
+    padding: 1rem;
+    margin:1rem 0;
+    width:50rem;
+}
+
+.btn{
+    border:none;
+    border-radius: 0.6rem;
+    padding:0.5rem;
+    cursor:pointer;
+}
+/* reset and common code ends here. */
+
+
+/* card design starts here. */
+.card--large{
+width:80rem;
+}
+.card{
+    background-color: #ffe4c4;
+}
+.card_title{
+    color:hsl(0, 59%, 41%);
+}
+.card_btn{
+background-color: hwb(180 0% 0%);
+}
+
+.feedback{
+    background-color: rgb(100,98,95);
+}
+
+.feedback_title{
+color:hwb(0 0% 0%);
+}
+
+
+.feedback_btn{
+    background-color:hsl(300, 76%, 72%);
+}
+
+.feedback_btn--large{
+    width:10rem;
+}
+/* card design ends here. */
+
+
+
+/* feedback design ends here. */
+
+/* feedback design ends here. */
+
+
+
